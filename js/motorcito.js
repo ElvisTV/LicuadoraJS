@@ -29,3 +29,5 @@ function ejecutaSonido() {
         sonidoLicuadora.onreset();
     }
 }
+
+// falta mejorar la lógica de los sonidos
